@@ -1,0 +1,27 @@
+body{
+    padding-top:60px;
+}
+.toggle-list{
+    color:inherit;
+}
+.toggle-list:hover, .toggle-list:focus{
+    text-decoration:none;
+    color:inherit;
+}
+.stat{
+    font-size:28px;
+    padding:10px;
+}
+
+.stat span{
+    display:block;
+    font-size:12px;
+}
+
+.navbar-right li{
+    padding:0px 3px;
+}
+
+.forwards-panel, .defense-panel{
+    display:none;
+}
